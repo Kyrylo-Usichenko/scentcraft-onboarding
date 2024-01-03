@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://kyrylo-usichenko-s-workspace-l8grks.eu-central-1.xata.sh/db/Scentcraft",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
